@@ -1,0 +1,8 @@
+{
+  "name": "منصة النخبة - توليد النصوص الفلسفية والسردية",
+  "description": "منصة احترافية لتأليف وتوليد النصوص الفلسفية والأدبية العميقة بأفق إنساني وفكري نخبوي مع ترجمة أدبية للفرنسية والإنجليزية وتوليد صوتي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
